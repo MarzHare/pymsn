@@ -1,0 +1,33 @@
+/* Stylesheet for dynamically generated PyMSN files with HTMLBulding */
+#wrapper {
+    font-family: "Lucida Grande", Arial, sans-serif;
+    text-align:  center;
+    margin-top:  50px;
+    margin-left:  30px;
+    margin-right:  30px;
+    margin-bottom:  50px;
+    border: 2px dashed #5052E1;
+    background-color: #E4EBF2;
+    padding-top: 50px;
+    padding-bottom:  50px;
+    /* line-height: 30px; */
+}
+.message {
+    margin-bottom: 30px;
+}
+.name {
+  color: #5C69CC;
+  font-style: italic;
+  font-weight: bold;
+}
+#footer {
+  font-size: small;
+  font-family: "Times New Roman", serif;
+  margin-top: 30px;
+}
+h1 {
+  text-align: center;
+  font-family: "Lucida Grande", Arial, sans-serif;
+  text-decoration: underline;
+  color: #303A8C;
+}
